@@ -15,4 +15,5 @@ Tecnologias
 - PGAdmin
 
 Como executar
+
 docker-compose up --build
