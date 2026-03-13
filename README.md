@@ -9,7 +9,10 @@ Tecnologias
 - Docker
 - Docker Compose
 - Nginx
-- Node.js
+- React (Vite)
+- NestJS
+- PostgreSQL
+- PGAdmin
 
 Como executar
 docker-compose up --build
